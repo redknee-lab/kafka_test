@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/ehienabs/civo-kafka.git
+    repoURL: https://github.com/redknee-lab/kafka_test.git
     targetRevision: HEAD
     path: apk-cluster/strimzi-apk-cluster
   destination:
